@@ -1,1 +1,41 @@
+Q1) What is a Variable?
+Ans- A Variable is a container which holds the value while the Java program is executed. A Variable is assigned with a datatype.
 
+Q2) How to declare a variable in Java?
+Ans-
+
+Q3) How to assign a value to a variable?
+Ans-
+
+Q4) What is Variable Initialization? How is it different than Assignment?
+Ans-
+
+Q5) Can we declare and initialize a variable together?
+Ans-
+
+Q6) Why is specifying datatype mandatory in Java?
+Ans-
+
+Q7) How many datatypes are there in Java?
+Ans-
+
+Q8) How can you create constants in Java?
+Ans-
+
+Q9) What are the rules for naming Java Variables?
+Ans-
+
+Q10) What are some common naming conventions for Java variables?
+Ans-
+
+Q11) Where does Java store variable?
+Ans-
+
+Q12) What do you understand by an instance variable and a local variable?
+Ans- A Variable declared inside the Class but outside the body of the Method is called Instance or Class Variable. A Variable declared inside the body of the Method is called Local Variable. We can use this Variable only within that Method and the other Methods in the Class are not even aware that the Variable exists.
+
+Q13) Difference between Heap and Stack Memory in Java. And how java utilizes this?
+Ans-
+
+Q14) Why is Java not a pure object oriented language?
+Ans-
